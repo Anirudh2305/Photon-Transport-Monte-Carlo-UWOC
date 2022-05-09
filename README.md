@@ -15,3 +15,8 @@ vs Link distance and also the Channel Impulse Response which is the intensity re
 ***"Channel_Impulse_response.m"*** gives a plot of CIR for a particluar link distance and receiver aperture.
 
 ***"Novelty.m"*** contains an extra addition to the mechanism. Here we consider the medium to be finite along Y-axis and model reflection of light due to TIR.
+
+# References
+[[1]](https://doi.org/10.1109/GLOCOMW.2011.6162571) Gabriel, Chadi, et al. "Channel modeling for underwater optical communication." 2011 IEEE GLOBECOM Workshops (GC Wkshps). IEEE, 2011.
+
+[[2]](https://doi.org/10.1364/JOCN.5.000001) Gabriel, Chadi, et al. "Monte-Carlo-based channel characterization for underwater optical communication systems." Journal of Optical Communications and Networking 5.1 (2013): 1-12.
